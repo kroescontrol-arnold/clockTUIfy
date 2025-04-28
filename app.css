@@ -1,0 +1,29 @@
+/* app.css */
+
+#week_label {
+    text-align: center;
+    padding: 1;
+}
+
+.centered {
+    text-align: center;
+    align-horizontal: center;
+    width: 100%;
+    margin: 1 0;
+}
+
+Select {
+    margin: 1 2;
+}
+
+Input {
+    width: 12;
+    margin: 1 1;
+    text-align: center;
+}
+
+Horizontal {
+    align: center middle;
+    width: 100%;
+    margin: 1 0;
+}

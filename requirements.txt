@@ -2,3 +2,4 @@ python-dotenv
 rich
 textual
 typing_extensions
+requests
